@@ -1,8 +1,3 @@
-Here’s your full AWS deployment guide in clean, well-structured .md (Markdown) format:
-
-md
-Copy
-Edit
 # 🚀 Deploy FastAPI Chatbot with Supabase Cert on AWS EC2
 
 ## ✅ Prerequisites
