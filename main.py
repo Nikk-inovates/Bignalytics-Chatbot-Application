@@ -53,9 +53,7 @@ app = FastAPI(
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        "https://preview--perfect-ui-for-chatbot.lovable.app",
-        "http://localhost:8080",
-        "https://bignalytics-chatbot.me"
+        "https://chatter-mind-spark.vercel.app"
     ],
     allow_credentials=True,
     allow_methods=["*"],
